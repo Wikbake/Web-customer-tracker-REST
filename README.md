@@ -4,7 +4,6 @@ This application is created in Eclipse and is using:
 
 - REST,
 - Hibernate, 
-- Spring MVC, 
 - Maven, 
 - MySQL. 
 
